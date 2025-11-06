@@ -65,6 +65,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/master/frp.sh)
 ## 一键安装telegram代理(支持所有主流系统)
 可选环境变量 `PORT`
 ```
+PORT=443 SECRET=ee11223344556677889900aabbccddeeff00112233445566778899aabbccdd bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/master/mtp.sh)
+
 bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/master/mtp.sh)
 ```
 
